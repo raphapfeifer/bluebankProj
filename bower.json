@@ -1,0 +1,27 @@
+{
+  "name": "angularProj",
+  "homepage": "https://github.com/raphapfeifer/angularProj",
+  "authors": [
+    "raphapfeifer <rapha_pfeifer@yahoo.com.br>"
+  ],
+  "description": "Projeto Angular",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-i18n": "~1.5.8",
+    "angular-messages": "~1.5.8",
+    "angular-route": "~1.5.8",
+    "bootstrap": "~3.3.7"
+  }
+}
